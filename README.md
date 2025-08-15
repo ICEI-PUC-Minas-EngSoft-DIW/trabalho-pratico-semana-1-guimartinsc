@@ -2,17 +2,17 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Guilherme Augusto Martins de Carvalho
+Matricula: 903025
 
 ## Tela de inspeção com navegador
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Print da tela de inspeção do meu navegador](images/networkYouTube.png)
 
 ## Tela de projeto no Replit
 
 `<Coloque aqui o print da tela do projeto no Replit>`
-
+![Print da tela do projeto no Replit](images/replit.png)
 
 ## Orientações sobre Linguagem MarkDown
 
